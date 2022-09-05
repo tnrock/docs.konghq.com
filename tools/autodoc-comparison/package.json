@@ -1,0 +1,16 @@
+{
+  "name": "autodoc-comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nunjucks": "^3.2.3",
+    "titleize": "^2.0.0"
+  }
+}
