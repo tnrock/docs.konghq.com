@@ -33,10 +33,9 @@ To set up a new report, open {% konnect_icon analytics %} [Analytics](https://cl
 
 1. Choose a time frame to display.
 
-    You can choose a preset time frame ranging from 1 day to 1 year, or
-    select **Custom** to set any date range.
+    You can choose a preset time frames ranging from 1 day to 1 year.
 
-    All time frames are static. The report will capture a snapshot of data
+    Time frames can be static or relative. The report will capture a snapshot of data
     in whichever time frame you choose, but the range always stops at the time
     that the report was created. You can see a preview of the exact range below
     the time frame selector. For example:

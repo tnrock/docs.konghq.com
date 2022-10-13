@@ -67,10 +67,10 @@ were rejected due to rate limiting, failed authentication, and so on.
   graphed over time, as well as the ratio of code classes to total requests.
 
 **Time frame selector**
-: Controls the time frame of data visualized, which indirectly controls the
-granularity of the data. For example, the “5M” selection displays 5 minutes in
-1-second resolution data, while longer time frames display minute, hour, or
-days resolution data.
+: Controls the time frame of the visualized data, which indirectly controls the
+granularity of the data. For example, the “5M” selection displays 5 minutes of resolution data in
+1-second intervals, while longer, or relative, time frames display minute, hour, or
+days.
 
 **Traffic metrics**
 : Provide insight into which of your services and service versions are being
