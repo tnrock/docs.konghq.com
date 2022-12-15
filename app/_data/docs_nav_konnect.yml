@@ -214,6 +214,11 @@
           absolute_url: true
         - text: Identity Integration Guide
           url: /api/identity-management/identity-integration
+    - text: Konnect Runtime Configuration API
+      items:
+        - text: API Documentation
+          url: https://developer.konghq.com/spec/3c38bff8-3b7b-4323-8e2e-690d35ef97e0/16adcd15-493a-49b2-ad53-8c73891e29bf
+          absolute_url: true
     - text: Runtime Groups API
       items:
         - text: API Documentation
