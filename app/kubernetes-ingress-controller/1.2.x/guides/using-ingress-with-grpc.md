@@ -43,7 +43,7 @@ This is expected as Kong does not yet know how to proxy the request.
 1. Add a grpc deployment and service
 
 ```bash
-$ kubectl apply -f https://bit.ly/grpcbin-service
+$ kubectl apply -f https://raw.githubusercontent.com/Kong/kubernetes-ingress-controller/v1.2.0/deploy/manifests/sample-apps/grpc.yaml
 service/grpcbin created
 deployment.apps/grpcbin created
 ```
