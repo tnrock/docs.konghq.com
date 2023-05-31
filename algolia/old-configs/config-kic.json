@@ -2,7 +2,7 @@
   "index_name": "prod_KIC",
   "start_urls": [
     {
-      "url": "https://docs.konghq.com/kubernetes-ingress-controller/"
+      "url": "https://docs.konghq.com/kong-ingress-controller/"
     }
   ],
   "sitemap_urls": [

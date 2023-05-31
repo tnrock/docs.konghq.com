@@ -25,7 +25,7 @@ You can combine `consumer.id`, `service.id`, or `route.id`
   {% unless page.k8s_examples == false %}
     {% navtab Kubernetes %}
 
-First, create a [KongPlugin](/kubernetes-ingress-controller/latest/references/custom-resources/#kongplugin)
+First, create a [KongPlugin](/kong-ingress-controller/latest/references/custom-resources/#kongplugin)
 resource:
 
 {% include_cached plugins/hub-examples/kubernetes.html example=hub_example.kubernetes %}
@@ -40,7 +40,7 @@ Replace `CONSUMER_NAME` with the name of the consumer that this plugin configura
 You can see your available consumers by running `kubectl get KongConsumer`.
 
 To learn more about `KongConsumer` objects, see [Provisioning Consumers and Credentials
-](/kubernetes-ingress-controller/latest/guides/using-consumer-credential-resource/).
+](/kong-ingress-controller/latest/guides/using-consumer-credential-resource/).
 
 <blockquote class="note">
   <strong>Note:</strong> The KongPlugin resource only needs to be defined once

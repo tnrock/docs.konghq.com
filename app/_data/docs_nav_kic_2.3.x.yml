@@ -1,10 +1,10 @@
-product: kubernetes-ingress-controller
+product: kong-ingress-controller
 release: 2.3.x
 generate: true
 items:
   - title: Introduction
     icon: /assets/images/icons/documentation/icn-kubernetes-color.svg
-    url: /kubernetes-ingress-controller/
+    url: /kong-ingress-controller/
     absolute_url: true
     items:
       - text: FAQ
