@@ -133,5 +133,5 @@ readinessProbe:
 For more information on Kong and related topics, check out the following resources:
 
 * [Kong Admin API Documentation](/gateway/latest/admin-api/)
-* [Get Started with Kong Ingress Controller](/kong-ingress-controller/latest/deployment/)
+* [Get Started with Kong Ingress Controller](/kong-ingress-controller/latest/deployment/overview/)
 * [Kong Helm Chart](https://github.com/Kong/charts/tree/main/charts/kong)

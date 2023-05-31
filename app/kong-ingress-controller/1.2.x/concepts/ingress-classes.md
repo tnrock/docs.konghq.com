@@ -174,4 +174,4 @@ referenced by other resources that do.
 
 [class-annotation]: /kong-ingress-controller/{{page.kong_version}}/references/annotations/#kubernetesioingressclass
 [knative-class]: /kong-ingress-controller/{{page.kong_version}}/guides/using-kong-with-knative/#ingress-class
-[knative-override]: https://knative.tips/networking/ingress-override/
+[knative-override]: https://knative.dev/docs/serving/services/ingress-class/
